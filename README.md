@@ -16,3 +16,7 @@ Neural Networks & Deep Learning
 Responsible AI & Fairness in ML
 
 This portfolio reflects not just technical growth, but a commitment to building ethical and impactful machine learning systems.
+
+📫 Get in Touch
+Email: [prmuwanga@gmail.com]
+LinkedIn: linkedin.com/in/yourprofile
