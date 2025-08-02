@@ -1,6 +1,6 @@
 📘 Cornell Machine Learning Portfolio
 
-Welcome to my Machine Learning project portfolio, developed during my coursework at Cornell. This collection showcases hands-on implementations of essential ML techniques—from supervised learning models to neural networks applied to real-world datasets using industry-standard tools.
+Welcome to my Machine Learning project portfolio, developed during my coursework at Cornell. This collection showcases hands-on implementations of essential ML techniques from supervised learning models to neural networks applied to real-world datasets using industry-standard tools.
 
 🔍 What You'll Find Here
 Explore practical solutions and insights across a range of topics:
