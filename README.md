@@ -1,6 +1,9 @@
-This portfolio highlights projects I completed as part of my Machine Learning course at Cornell. It features practical applications of key machine learning techniques, ranging from supervised learning to deep learning. By using real-world datasets and tools commonly used in the industry.
+📘 Cornell Machine Learning Portfolio
 
-Key Topics
+Welcome to my Machine Learning project portfolio, developed during my coursework at Cornell. This collection showcases hands-on implementations of essential ML techniques—from supervised learning models to neural networks applied to real-world datasets using industry-standard tools.
+
+🔍 What You'll Find Here
+Explore practical solutions and insights across a range of topics:
 
 Supervised Learning
 
@@ -10,4 +13,6 @@ Model Evaluation & Optimization
 
 Neural Networks & Deep Learning
 
-Responsible AI & Fairness in Machine Learning
+Responsible AI & Fairness in ML
+
+This portfolio reflects not just technical growth, but a commitment to building ethical and impactful machine learning systems.
